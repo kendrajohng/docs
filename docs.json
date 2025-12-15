@@ -25,7 +25,7 @@
             "group": "Writing Portfolio",
             "pages": [
               "essentials/settings",
-              "essentials/navigation"
+              "essentials/kentik"
             ]
           },
           {
@@ -102,15 +102,15 @@
   },
   "contextual": {
     "options": [
-     "copy",
-     "view",
-     "chatgpt",
-     "claude",
-     "perplexity",
-     "mcp",
-     "cursor",
-     "vscode"
-   ]
+      "copy",
+      "view",
+      "chatgpt",
+      "claude",
+      "perplexity",
+      "mcp",
+      "cursor",
+      "vscode"
+    ]
   },
   "footer": {
     "socials": {
