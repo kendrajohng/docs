@@ -29,12 +29,6 @@
             ]
           },
           {
-            "group": "Apps Portfolio",
-            "pages": [
-              "essentials/markdown"
-            ]
-          },
-          {
             "group": "My Tools",
             "pages": [
               "ai-tools/claude-code"
