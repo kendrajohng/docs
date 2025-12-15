@@ -72,12 +72,12 @@
       "anchors": [
         {
           "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
+          "href": "https://kendrajohngconsultingllc.mintlify.app/quickstart",
           "icon": "book-open-cover"
         },
         {
           "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
+          "href": "https://substack.com/@kendrajohng",
           "icon": "newspaper"
         }
       ]
@@ -90,14 +90,14 @@
   "navbar": {
     "links": [
       {
-        "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "label": "Contact",
+        "href": "mailto:kendrajohng@gmail.com"
       }
     ],
     "primary": {
       "type": "button",
       "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
+      "href": "https://kendrajohng.vercel.app"
     }
   },
   "contextual": {
@@ -116,7 +116,8 @@
     "socials": {
       "x": "https://x.com/thekendralamar",
       "github": "https://github.com/kendrajohng",
-      "linkedin": "https://linkedin.com/in/kendra-johng"
+      "linkedin": "https://linkedin.com/in/kendra-johng",
+      "instagram": "https://www.instagram.com/cozycoworker"
     }
   }
 }
