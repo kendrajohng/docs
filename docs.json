@@ -40,9 +40,7 @@
           {
             "group": "My Tools",
             "pages": [
-              "ai-tools/cursor",
-              "ai-tools/claude-code",
-              "ai-tools/windsurf"
+              "ai-tools/claude-code"
             ]
           }
         ]
