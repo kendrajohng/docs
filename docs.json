@@ -32,6 +32,13 @@
             ]
           },
           {
+            "group": "Apps Portfolio",
+            "pages": [
+              "essentials/writegood",
+              "essentials/banchan"
+            ]
+          },
+          {
             "group": "My Tools",
             "pages": [
               "ai-tools/claude-code"
